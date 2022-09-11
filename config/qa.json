@@ -1,0 +1,21 @@
+{
+  "env":{  
+    "nome":"Gustavo Albertine",
+    "email":"teste@ticto.com",
+    "senha":"12345678",
+    
+    "nomeInvalido":"Bill",    
+    "emailInvalido":"bill.com.br",
+    "senhaInvalido":"1234",
+
+    "edicaoErrado":"Paulo",
+    "emailErrado":"Paulo.com",
+
+    "edicaoCerto":"Paulo Andrade",
+    "emailCerto":"Paulo@email.com",
+
+    "baseUrl":"https://qa-test.ticto.io/"
+
+  }
+
+}
